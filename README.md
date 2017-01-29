@@ -8,8 +8,8 @@ Warunkiem jest używanie znaczników <div> lub
 
 
 Pamiętaj by skrypt umieścić na końcu strony
-i aby dodać te znaczniki:
-
+i aby dodać te znaczniki:  
+  
 <div id="stop_reklam"></div>
 <kod strony>
 <div id="start_reklam"></div>

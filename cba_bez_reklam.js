@@ -1,19 +1,3 @@
-/*Skrypt który chowa wszystkie reklamy kiedy
-hostujemy za darmo na hostingu cba.pl.
-Możliwe że będzie działać na innych hostingach.
-Warunkiem jest używanie znaczników <div> lub
-<iframe> przez hosting.
-
-Pamiętaj by skrypt umieścić na końcu strony
-i aby dodać te znacznik:
-
-<div id="stop_reklam"></div>
-<kod strony>P
-<div id="start_reklam"></div>
-
-Pokazują one skryptowi gdzie znajduje
-się kod strony.*/
-
 a = document.getElementsByTagName("div");
 b = document.getElementsByTagName("iframe");
 var f1 = true;

@@ -1,4 +1,5 @@
 # cba-bez-reklam
+
 Skrypt który chowa wszystkie reklamy kiedy
 hostujemy za darmo na hostingu cba.pl.
 Możliwe że będzie działać na innych hostingach.

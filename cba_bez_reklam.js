@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", function(){
 	let b = document.getElementsByTagName("iframe");
 	let  f1 = true;
 	//qwe
+	//qwe
+	//asd
 	for(let i = 0; i < a.length; ++i){
 		if(a[i].id == "start_reklam") f1 = true;
 		if(f1) a[i].style.display = "none";

@@ -5,7 +5,7 @@ hostujemy za darmo na hostingu cba.pl.
 Modsdghżliwe że będzie działać na innych hostingach.
 Warunkiem jest używanie znaczników `<div>` lub
 `<iframe>` przez hosting.
-
+asd
 Pamiętaj by skrypt umieścić na końcu strony
 i aby dodać te znaczniki:
 ```html

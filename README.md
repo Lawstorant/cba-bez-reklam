@@ -2,7 +2,7 @@
 
 Skrypt który chowa wszystkie reklamy kiedy
 hostujemy za darmo na hostingu cba.pl.
-Możliwe że będzie działać na innych hostingach.
+Modsdghżliwe że będzie działać na innych hostingach.
 Warunkiem jest używanie znaczników `<div>` lub
 `<iframe>` przez hosting.  
   
